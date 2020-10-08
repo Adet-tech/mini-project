@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&family=Poppins:ital,wght@0,300;0,400;1,300;1,400;1,500&family=Raleway&family=Roboto&family=Roboto+Slab&display=swap');
+/*body{
+    background-color: aqua;
+    background-image: radial-gradient(pink 70%, aqua, orange);
+    
+}*/
+
+body{
+    background-color: #f0f6f7;}
+
+.header{
+    text-align: center;
+    
+}
+
+#continue{
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+}
+
+#comb{
+    font-family: 'Roboto', sans-serif;
+}
+
+#supervisor{
+    float: right;
+}
+
+#team-builder{
+    float: right;
+}
+
+#karma{
+    float: right;
+}
+
+#calculator{
+    float: right;
+}
+
+#container-one{
+border-top: 8px solid red;
+border-radius: 3%;
+background-color: #e5eef0;
+width: 350px;
+height: 200px;
+position: absolute;
+top: 350px;
+left: 120px;
+}
+
+#container-two{
+border-top: 8px solid cyan;
+border-radius: 3%;
+background-color: #e5eef0;
+width: 350px;
+height: 200px;
+position: absolute;
+top: 200px;
+left: 500px;
+}
+
+#container-three{
+border-top: 8px solid orange;
+border-radius: 3%;
+background-color: #e5eef0;
+width: 350px;
+height: 200px;
+position: absolute;
+top: 450px;
+left: 500px;
+}
+
+#container-four{
+border-top: 8px solid blue;
+border-radius: 3%;
+background-color: #e5eef0;
+width: 350px;
+height: 200px;
+position: absolute;
+top: 350px;
+left: 880px;
+
+}
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;*/
